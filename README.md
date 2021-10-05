@@ -18,7 +18,7 @@ Each variation gets a different price tag.
 
   - Also, each product can be paid via three (3) different payment methods
     * Credit / Depit card
-      * Money / Bank Transfer
-      * Cash
+    * Money / Bank Transfer
+    * Cash
          
 
