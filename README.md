@@ -5,7 +5,7 @@
 ---
 ---
 
-## you need to implement using the Strategy pattern the following scenario
+## You need to implement using the Strategy pattern the following scenario
     
    - You have a product named T-Shirt that has three (3) variations, in terms 
    of,
