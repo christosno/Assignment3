@@ -14,7 +14,7 @@
         + Size (XS, S, M, L, XL, XXL, XXXL)
         + Fabric (WOOL, COTTON, POLYESTER, RAYON, LINEN, CASHMERE, SILK)
         
-** Each variation gets a different price tag.
+** Each variation gets a different price tag. **
 
   - Also, each product can be paid via three (3) different payment methods
     * Credit / Depit card
