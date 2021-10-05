@@ -22,3 +22,10 @@ Each variation gets a different price tag.
     * Cash
          
 
+  - Construct a Strategy pattern that implements the variations and the payment 
+    methods under three (3) combined strategies that implement all the possible 
+    combinations as such
+    
+      * Color, Size and Fabric with Credit / Debit Cards
+      * Color, Size and Fabric with Money / Bank Transfer
+      * Color, Size and Fabric with Cash
